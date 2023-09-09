@@ -4,7 +4,6 @@
   <br>
   Nuestro pagina web esta construida con el destino de mantener un control de pacientes, médicos, trabajador y/o personal de un hospital.
   <br>
-  <img src="https://github.com/Proyecto-Hospital-Equipo4/Avance/blob/main/img/fondOne.jpg" width="500">
 </div>
 El proyecto se esta realizando a través de los lenguajes web, como lo es el lenguaje de etiquetas HTML, hojas de estilo CSS y como lenguajes de programación se a usado JavaScript y PHP. En el manejo de base de datos, se esta usando bases de datos relacionales esto por medio del sistema gestor de bases de datos MySQL.
 <h3>Utilidades de la pagina web:</h3>
@@ -19,11 +18,3 @@ El proyecto se esta realizando a través de los lenguajes web, como lo es el len
   <li>Consultas generales</li>
   <li>Consultas individuales</li>
 </ol>
-<h3>El equipo 4 esta conformado por los siguientes participantes</h3>
-<ul>
-  <li>Martinez López, Sebastián</li>
-  <li>Mendoza Fajardo, Joaquin Esaú</li>
-  <li>Nuñez Morgan, Luis Fernando</li>
-  <li>Orozco Guzmán, Oscar Étienne</li>
-  <li>Ramírez Espinosa, Bryan Uriel</li>
-</ul>
